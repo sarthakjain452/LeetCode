@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakjain452/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/sarthakjain452/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakjain452/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sarthakjain452/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakjain452/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sarthakjain452/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakjain452/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarthakjain452/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakjain452/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
