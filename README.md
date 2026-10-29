@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthakjain452/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakjain452/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sarthakjain452/LeetCode/tree/master/0509-fibonacci-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakjain452/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sarthakjain452/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthakjain452/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakjain452/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakjain452/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sarthakjain452/LeetCode/tree/master/0268-missing-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakjain452/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sarthakjain452/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakjain452/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakjain452/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
