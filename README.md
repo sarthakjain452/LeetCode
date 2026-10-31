@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthakjain452/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarthakjain452/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sarthakjain452/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sarthakjain452/LeetCode/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthakjain452/LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/sarthakjain452/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarthakjain452/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarthakjain452/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
